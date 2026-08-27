@@ -1,0 +1,4 @@
+package com.example.formera.domain.usecase
+
+class StartWorkoutUseCase {
+}
